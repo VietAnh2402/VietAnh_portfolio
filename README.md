@@ -1,7 +1,7 @@
 # VietAnh_portfolio
 Analytics Portfolio
 
-# [Project 1] Fifa 23  
+# [Project 1] Fifa 21
 
 In project 1, It will show my Data cleaning and transfomation skills.
 
